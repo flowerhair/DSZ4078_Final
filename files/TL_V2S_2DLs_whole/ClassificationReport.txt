@@ -1,0 +1,83 @@
+Classification Report:
+                            precision    recall  f1-score   support
+
+                   ADONIS       0.94      0.94      0.94        18
+AFRICAN GIANT SWALLOWTAIL       1.00      0.87      0.93        15
+           AMERICAN SNOOT       0.86      0.80      0.83        15
+                    AN 88       1.00      0.94      0.97        17
+                  APPOLLO       0.94      0.89      0.91        18
+                    ATALA       1.00      0.95      0.97        20
+ BANDED ORANGE HELICONIAN       0.95      0.95      0.95        20
+           BANDED PEACOCK       0.89      0.94      0.91        17
+            BECKERS WHITE       0.80      1.00      0.89        16
+         BLACK HAIRSTREAK       1.00      0.71      0.83        17
+              BLUE MORPHO       0.94      1.00      0.97        15
+        BLUE SPOTTED CROW       0.94      0.88      0.91        17
+           BROWN SIPROETA       1.00      0.95      0.97        20
+            CABBAGE WHITE       0.95      1.00      0.97        18
+          CAIRNS BIRDWING       1.00      1.00      1.00        17
+       CHECQUERED SKIPPER       0.86      0.95      0.90        19
+                 CHESTNUT       0.94      0.94      0.94        17
+                CLEOPATRA       0.90      1.00      0.95        19
+       CLODIUS PARNASSIAN       0.93      0.82      0.88        17
+          CLOUDED SULPHUR       0.62      0.83      0.71        18
+        COMMON BANDED AWL       0.89      0.94      0.91        17
+        COMMON WOOD-NYMPH       0.89      0.94      0.92        18
+              COPPER TAIL       0.83      0.53      0.65        19
+                  CRECENT       1.00      0.90      0.95        20
+            CRIMSON PATCH       1.00      1.00      1.00        14
+            DANAID EGGFLY       0.95      0.95      0.95        19
+             EASTERN COMA       0.74      0.74      0.74        19
+     EASTERN DAPPLE WHITE       0.68      0.83      0.75        18
+       EASTERN PINE ELFIN       1.00      0.89      0.94        19
+          ELBOWED PIERROT       1.00      0.94      0.97        16
+              GOLD BANDED       0.92      0.80      0.86        15
+             GREAT EGGFLY       0.78      0.88      0.82        16
+                GREAT JAY       0.90      0.95      0.92        19
+ GREEN CELLED CATTLEHEART       0.90      1.00      0.95        18
+          GREY HAIRSTREAK       0.74      1.00      0.85        17
+            INDRA SWALLOW       1.00      0.88      0.93        16
+          IPHICLUS SISTER       1.00      0.95      0.97        19
+                    JULIA       0.89      1.00      0.94        16
+             LARGE MARBLE       0.88      0.44      0.58        16
+                MALACHITE       0.94      1.00      0.97        15
+         MANGROVE SKIPPER       0.93      0.82      0.88        17
+                   MESTRA       1.00      0.94      0.97        17
+                METALMARK       0.91      0.67      0.77        15
+   MILBERTS TORTOISESHELL       1.00      0.84      0.91        19
+                  MONARCH       0.86      1.00      0.92        18
+           MOURNING CLOAK       1.00      1.00      1.00        26
+           ORANGE OAKLEAF       0.75      0.88      0.81        17
+               ORANGE TIP       1.00      1.00      1.00        19
+          ORCHARD SWALLOW       0.93      0.93      0.93        15
+             PAINTED LADY       0.89      1.00      0.94        16
+               PAPER KITE       1.00      1.00      1.00        18
+                  PEACOCK       1.00      0.94      0.97        17
+               PINE WHITE       1.00      0.94      0.97        17
+         PIPEVINE SWALLOW       0.81      1.00      0.89        17
+                 POPINJAY       1.00      0.94      0.97        17
+        PURPLE HAIRSTREAK       0.68      0.81      0.74        16
+          PURPLISH COPPER       0.78      1.00      0.88        18
+            QUESTION MARK       0.73      0.73      0.73        15
+              RED ADMIRAL       0.94      0.94      0.94        16
+              RED CRACKER       1.00      0.95      0.97        19
+              RED POSTMAN       0.85      0.94      0.89        18
+       RED SPOTTED PURPLE       1.00      1.00      1.00        17
+           SCARCE SWALLOW       1.00      1.00      1.00        20
+      SILVER SPOT SKIPPER       0.94      1.00      0.97        17
+            SLEEPY ORANGE       0.94      0.68      0.79        22
+                SOOTYWING       0.76      0.89      0.82        18
+         SOUTHERN DOGFACE       1.00      0.76      0.87        17
+           STRAITED QUEEN       0.94      0.94      0.94        17
+        TROPICAL LEAFWING       0.73      0.94      0.82        17
+       TWO BARRED FLASHER       0.87      0.87      0.87        15
+                   ULYSES       0.88      0.88      0.88        17
+                  VICEROY       0.94      0.94      0.94        16
+               WOOD SATYR       1.00      0.71      0.83        14
+      YELLOW SWALLOW TAIL       1.00      0.93      0.97        15
+          ZEBRA LONG WING       0.94      1.00      0.97        15
+
+                 accuracy                           0.90      1300
+                macro avg       0.91      0.90      0.90      1300
+             weighted avg       0.91      0.90      0.90      1300
+
